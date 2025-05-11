@@ -2,4 +2,4 @@
 [こちら](https://kitamikado22.github.io/manfall-webgl/ "MANFALL")にアクセスしてプレイすることが可能です。
 
 # Windowsでも遊べます
-BuildファイルにWindows版の完成作品がありますので、ダウンロードして遊ぶことができます。
+BuildフォルダにWindows版の完成作品がありますので、ダウンロードして遊ぶことができます。
