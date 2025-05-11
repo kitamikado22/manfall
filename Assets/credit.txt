@@ -1,0 +1,69 @@
+-------------------------------------------
+制作
+-------------------------------------------
+北御門 翔一
+
+
+-------------------------------------------
+使用素材
+-------------------------------------------
+■プログラム
+○Demigiant
+　公式サイト：www.demigiant.com
+「DOTween (HOTween v2)」
+https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676#publisher
+
+○Fenerax Studios
+　公式サイト：assetstore.unity.com/publishers/32730
+「Joystick Pack」
+https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631#publisher
+
+■BGM
+○優日のすたるじっく様
+　公式サイト：https://youtu.be/9MaYhPcKlOI
+「エレクトリシティと電波塔」「ポンコツハッカーと三毛猫の日常」「22世紀とレトロな6畳」
+
+■SE・効果音
+○Cyrex
+　公式サイト：nathangibson.myportfolio.com/
+「Free UI Soundpack」
+https://assetstore.unity.com/packages/audio/sound-fx/free-ui-soundpack-239372#publisher
+
+○Nox_Sound
+　公式サイト：linktr.ee/Nox_Sound
+「Vehicle - Essentials」
+https://assetstore.unity.com/packages/audio/sound-fx/transportation/vehicle-essentials-194951#publisher
+
+○Dustyroom
+　公式サイト：dustyroom.com
+「FREE Casual Game SFX Pack」
+https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116#publisher
+
+○Alan Dalcastagne da Cunha
+　公式サイト：alan-dalcastagne.com/
+「Regular Impact Sounds - Sound Effects」
+https://assetstore.unity.com/packages/audio/sound-fx/regular-impact-sounds-sound-effects-278024#publisher
+
+■イラスト・UI
+○Giniel Villacote
+　公式サイト：ginielvillacotedev.wixsite.com/website
+「Violet Themed UI」
+https://assetstore.unity.com/packages/2d/gui/violet-themed-ui-235559#publisher
+
+■3Dモデル
+○VenCreations
+　公式サイト：www.vencreations.com/
+「SimplePoly City - Low Poly Assets」
+https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899#publisher
+
+○Dungeon Mason
+　公式サイト：alexkim0415.wixsite.com/dungeonmason
+「Robot Hero : PBR HP Polyart」
+https://assetstore.unity.com/packages/3d/characters/robots/robot-hero-pbr-hp-polyart-106154#publisher
+
+■フォント
+○FutureCartographer
+　公式サイト：www.futurecartographer.com/
+「Selected U3D Japanese Font」
+https://assetstore.unity.com/packages/2d/fonts/selected-u3d-japanese-font-337#publisher
+
